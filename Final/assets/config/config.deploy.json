@@ -1,0 +1,9 @@
+{
+    "env": {
+    "Name": "#{envName}"
+     },
+    "apiServer": {
+    "IP": "#{IP}",
+    "ServiceName": "#{ServiceName}"
+    }
+}

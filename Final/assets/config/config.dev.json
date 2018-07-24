@@ -1,0 +1,9 @@
+{
+    "env": {
+    "Name": "DEV"
+     },
+    "apiServer": {
+    "IP": "http://192.168.177.209:5000/",
+    "ServiceName": "Portfolio.svc/"
+    }
+}
